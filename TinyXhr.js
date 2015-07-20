@@ -1,5 +1,7 @@
 /**
  * Simple Xhr (Ajax) function
+ * Tested with:
+ *  + Internet Explorer 8.0.6 on Windows XP SP3
  * 
  * @param url
  * @param cb the callback
